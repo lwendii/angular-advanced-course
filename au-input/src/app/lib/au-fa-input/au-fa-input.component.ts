@@ -6,7 +6,7 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./au-fa-input.component.css']
 })
 export class AuFaInputComponent implements OnInit {
-  @Input() icon:string;
+  @Input() icon: string;
 
   constructor() { }
 
