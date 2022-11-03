@@ -107,7 +107,6 @@
       }
     }
   },
-  "defaultProject": "au-input",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "",
